@@ -78,7 +78,7 @@ if st.button("Run AI Analysis") and uploaded_file is not None and data is not No
     prompt = f"""
     Please analyze the following data and provide comprehensive insights, forecasts, summaries, and recommendations. 
     This analysis should cover the following financial tools:
-    
+
     - **Expense Tracker:** Manages spending
     - **Trend Analysis:** Cash required forecast
     - **Cash Flow Predictor:** Forecasts cash trends
